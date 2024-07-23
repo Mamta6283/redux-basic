@@ -36,5 +36,5 @@ export const showDetailsAction =(movie)=>{
    return{
    type:"SHOWDETAILS",
    payload : movie
-   }
-}
+   }  
+}  
